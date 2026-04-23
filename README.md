@@ -1,9 +1,15 @@
-PelisSeries
-Este es un proyecto grupal para la gestión de películas y series.
+🎬 PelisSeries App
+> Versión: 0.0.1 (Alpha)
 
-Integrantes:
+Este es un proyecto grupal desarrollado en Java para la gestión eficiente de catálogos de películas y series.
 
-* Evelyn Lizama
-* Edison
-* Jenn
-* Dayana
+Integrantes del Equipo:
+
+* ✨ Evelyn Stacy Sánchez Lizama / SL100426
+* 👤 Jennifer Raquel Magaña Asensio / MA101626
+* 👤 Dayana Nicole López Ventura / LV100426
+
+## 🛠️ Tecnologías utilizadas
+* Java (NetBeans)
+* Git & GitHub
+* Maven
