@@ -8,8 +8,9 @@ Integrantes del Equipo:
 * ✨ Evelyn Stacy Sánchez Lizama / SL100426
 * 👤 Jennifer Raquel Magaña Asensio / MA101626
 * 👤 Dayana Nicole López Ventura / LV100426
+* 👤 Diego Alexander Hernandez Flores / HF100626
 
 ## 🛠️ Tecnologías utilizadas
 * Java (NetBeans)
 * Git & GitHub
-* Maven
+* MySQL & Laragon
